@@ -19,35 +19,3 @@
 </html>
 <h1>Live2Dの練習</h1>
 <p>グレイちゃん</p>
-<p>&nbsp;</p>
-CGFloat height   = 45.0f;
-CGRect toolBarBounds = CGRectMake(
-    self.view.bounds.origin.x,
-//self.view.bounds.origin.y - 1.0f, // TOP表示時
-    self.view.bounds.origin.y + self.view.bounds.size.height - height, // Bottom表示時
-    self.view.bounds.size.width,
-    height
-);
-
-toolBar = [[UIToolbar alloc] initWithFrame:toolBarBounds];
-[toolBar sizeToFit];
-// 画像を指定
-[toolBar setBackgroundImage: [UIImage imageNamed:@"black.png"] forToolbarPosition:UIToolbarPositionAny barMetrics:UIBarMetricsDefault];
-toolBar.hidden                 = NO;
-toolBar.multipleTouchEnabled   = NO;
-toolBar.autoresizesSubviews    = YES;
-toolBar.userInteractionEnabled = YES;
-toolBar.barStyle               = style;
-
-// addSubviewしてね
-
-
-// ボタン貼っつけたい場合は
-UIBarButtonItem* item = [[UIBarButtonItem alloc] initWithTitle:@"ログイン" style:UIBarButtonItemStyleBordered target:self action:@selector(toolBarButtonTapped:)];
-[item setTintColor:[UIColor blackColor]];
-
-// ボタンをツールバーに貼っつけ
-NSMutableArray* toolBarItems = [[NSMutableArray alloc] initWithCapacity:1];
-[toolBarItems insertObject:item atIndex:0];
-[item release];
-[toolBar setItems:toolBarItems animated:NO];
