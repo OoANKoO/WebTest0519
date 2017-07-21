@@ -1,0 +1,73 @@
+.version._____2 /* version checker */
+{
+	color: #0000E2;
+	background-color: #A12512;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 500px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u468-11
+{
+	z-index: 3;
+	min-height: 181px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 19px;
+	line-height: 33px;
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 472px;
+	width: 88.86%;
+	left: 6.78%;
+}
+
+#u468-3,#u468-5,#u468-9
+{
+	text-align: center;
+}
+
+#u465
+{
+	z-index: 2;
+	height: 1556px;
+	background: #6598FF url("../images/u465-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#7F7F7F),color-stop(83%, #6598FF));
+	background: -webkit-linear-gradient(top,#7F7F7F ,#6598FF 1290px);
+	background: linear-gradient(to bottom,#7F7F7F ,#6598FF 1290px);
+	margin-bottom: -395px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1099px;
+	width: 106.78%;
+	left: -3.13%;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
+}
+

@@ -1,0 +1,124 @@
+.version._______ /* version checker */
+{
+	color: #00001D;
+	background-color: #BC2C14;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 500px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u355
+{
+	z-index: 7;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 125px;
+	width: 27.3%;
+	left: 2.09%;
+}
+
+#u375
+{
+	z-index: 11;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 125px;
+	width: 27.4%;
+	left: 70.53%;
+}
+
+#u333
+{
+	z-index: 2;
+	min-height: 649px;
+	background: #2C8DFF url("../images/u258-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#7F7F7F),color-stop(100%, #2C8DFF));
+	background: -webkit-linear-gradient(top,#7F7F7F ,#2C8DFF 1120px);
+	background: linear-gradient(to bottom,#7F7F7F ,#2C8DFF 1120px);
+	padding-bottom: 29px;
+}
+
+#u333_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	max-width: 960px;
+}
+
+#u365
+{
+	z-index: 9;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 93px;
+	width: 27.3%;
+	left: 36.36%;
+}
+
+#u355_img,#u375_img,#u365_img
+{
+	width: 100%;
+}
+
+#u336-4
+{
+	z-index: 3;
+	min-height: 27px;
+	background-color: transparent;
+	line-height: 25px;
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 622px;
+	width: 19.9%;
+	left: 77.4%;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u333-bw
+{
+	z-index: 2;
+	min-height: 649px;
+	margin-top: -616px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
+}
+

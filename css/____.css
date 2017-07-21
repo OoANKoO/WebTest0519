@@ -1,0 +1,79 @@
+.version._____ /* version checker */
+{
+	color: #00001B;
+	background-color: #ABA945;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 500px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u397
+{
+	z-index: 3;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 296px;
+	width: 29.38%;
+	left: 34.07%;
+}
+
+#u397_img
+{
+	width: 100%;
+}
+
+#u394
+{
+	z-index: 2;
+	height: 785px;
+	background: #2C8DFF url("../images/u394-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#7F7F7F),color-stop(100%, #2C8DFF));
+	background: -webkit-linear-gradient(top,#7F7F7F ,#2C8DFF 1120px);
+	background: linear-gradient(to bottom,#7F7F7F ,#2C8DFF 1120px);
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u394-bw
+{
+	z-index: 2;
+	margin-top: -723px;
+	height: 785px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
+}
+

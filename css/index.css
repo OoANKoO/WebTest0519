@@ -1,0 +1,166 @@
+.version.index /* version checker */
+{
+	color: #00000D;
+	background-color: #DBCBD2;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 2258px;
+	background: -webkit-gradient(linear, center top, center bottom, from(#7F7F7F),color-stop(100%, #003F94));
+	background: -webkit-linear-gradient(top,#7F7F7F ,#003F94 100%);
+	background: linear-gradient(to bottom,#7F7F7F ,#003F94 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF7F7F7F, endColorstr=#FF003F94, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF7F7F7F', endColorstr='#FF003F94', GradientType=0)";
+	border-width: 0px;
+	border-color: #000000;
+	padding-bottom: 62px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u110
+{
+	z-index: 2;
+	height: 2304px;
+	background: -webkit-gradient(linear, center top, center bottom, from(#7F7F7F),color-stop(100%, #06002B));
+	background: -webkit-linear-gradient(top,#7F7F7F ,#06002B 100%);
+	background: linear-gradient(to bottom,#7F7F7F ,#06002B 100%);
+	filter: alpha(opacity=64) progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF7F7F7F, endColorstr=#FF06002B, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=64) progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF7F7F7F', endColorstr='#FF06002B', GradientType=0)";
+	opacity: 0.64;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u110-bw
+{
+	z-index: 2;
+	height: 2304px;
+}
+
+#u113-4
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 118px;
+	width: 42.92%;
+	left: 31.05%;
+}
+
+#u119
+{
+	z-index: 7;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 462px;
+	width: 24.8%;
+	left: 23.13%;
+}
+
+#u129
+{
+	z-index: 9;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 462px;
+	width: 23.03%;
+	left: 56.88%;
+}
+
+#u139
+{
+	z-index: 11;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 870px;
+	width: 24.8%;
+	left: 39.8%;
+}
+
+#u404-4
+{
+	z-index: 13;
+	min-height: 22px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 20px;
+	line-height: 35px;
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 343px;
+	width: 8.44%;
+	left: 47.92%;
+}
+
+#u407
+{
+	z-index: 17;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1318px;
+	width: 24.17%;
+	left: 40.11%;
+}
+
+#u119_img,#u129_img,#u139_img,#u407_img
+{
+	width: 100%;
+}
+
+#u447-4
+{
+	z-index: 19;
+	min-height: 34px;
+	background-color: transparent;
+	line-height: 25px;
+	color: #FFFFFF;
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 149px;
+	width: 17.92%;
+	left: 2.09%;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+	background: -webkit-gradient(linear, left center, right center, from(#7F7F7F),color-stop(100%, #5E6E84));
+	background: -webkit-linear-gradient(left,#7F7F7F ,#5E6E84 100%);
+	background: linear-gradient(to right,#7F7F7F ,#5E6E84 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF7F7F7F, endColorstr=#FF5E6E84, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF7F7F7F', endColorstr='#FF5E6E84', GradientType=1)";
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+
